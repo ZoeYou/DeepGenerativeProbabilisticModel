@@ -1,0 +1,6 @@
+Report guidelines: due to Covid situation, the report of lab exercise 2 can be very short, just answer questions below (less than 1 page)
+
+1. Why are Restricted Boltzmann Machines interesting as Energy based models?
+2. When using a single Markov Chain to sample from the model, what do you observe with respect to the model space exploration?
+3. In practice, what advice could you give to someone who needs many samples from the model?
+

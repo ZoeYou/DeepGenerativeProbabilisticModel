@@ -1,0 +1,5 @@
+Report guidelines: due to Covid situation, the report of lab exercise 3 can be very short, just answer questions below (less than 1 page)
+
+1. What problem does normalizing flows solve? What is their benefit compared to other model we saw in the course? (think about the training loss)
+2. What is the intuition behing NICE and Real NVP models?
+
